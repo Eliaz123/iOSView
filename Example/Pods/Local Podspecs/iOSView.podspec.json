@@ -1,0 +1,22 @@
+{
+  "name": "iOSView",
+  "version": "0.1.0",
+  "summary": "A short description of iOSView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/eli.oteg@gmail.com/iOSView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "eli.oteg@gmail.com": "eli.oteg@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/eli.oteg@gmail.com/iOSView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iOSView/Classes/**/*"
+}
